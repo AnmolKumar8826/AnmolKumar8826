@@ -23,9 +23,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolkumar8826&show_icons=true&locale=en&layout=compact" alt="anmolkumar8826" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkumar8826&" alt="anmolkumar8826" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolkumar8826&show_icons=true&locale=en" alt="anmolkumar8826" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkumar8826&" alt="anmolkumar8826" /></p>
 </br>
 
 - 📫 How to reach me **anmolk5634@gmail.com | +91-8826708379**
